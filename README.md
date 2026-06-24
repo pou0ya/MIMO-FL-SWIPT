@@ -57,10 +57,7 @@ If you use this code for research that results in publications, please cite our 
   title={Energy-Efficient Federated Learning for IoT Networks With Massive MIMO-Enabled SWIPT},
   author={Mozafari, Mohammad and Hosseini, Maryam and Hosseini, Pouya and Zahedi, Abdulhamid and Abouei, Jamshid and Mohammadi, Arash},
   journal={IEEE Internet of Things Journal},
-  volume={13},
-  number={12},
-  pages={--},
-  month={Jun.},
+  month={Apr.},
   year={2026},
   publisher={IEEE}
 }
